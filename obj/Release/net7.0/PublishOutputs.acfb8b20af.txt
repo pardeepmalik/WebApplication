@@ -1,0 +1,7 @@
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\WebAppASPCore.exe
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\appsettings.Development.json
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\appsettings.json
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\WebAppASPCore.dll
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\WebAppASPCore.deps.json
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\WebAppASPCore.runtimeconfig.json
+D:\Practice\ASP.NET\ASPNETCoreWebApp\WebAppASPCore\bin\publish\WebAppASPCore.pdb
